@@ -1,0 +1,212 @@
+Rank,Team Name,Points,Previous Rank,Country Code
+1.0,Brazil,1684.97,1.0,BRA
+2.0,Portugal,1575.32,2.0,POR
+3.0,Spain,1574.39,3.0,ESP
+4.0,Argentina,1513.38,4.0,ARG
+5.0,IR Iran,1507.71,5.0,IRN
+6.0,Morocco,1486.53,6.0,MAR
+7.0,Russia,1430.32,7.0,RUS
+8.0,Kazakhstan,1403.8,9.0,KAZ
+9.0,Ukraine,1400.89,8.0,UKR
+10.0,France,1397.25,10.0,FRA
+11.0,Thailand,1354.78,11.0,THA
+12.0,Japan,1315.11,13.0,JPN
+13.0,Croatia,1312.03,14.0,CRO
+14.0,Indonesia,1269.82,24.0,IDN
+15.0,Armenia,1255.16,23.0,ARM
+16.0,Venezuela,1254.82,18.0,VEN
+17.0,Italy,1249.47,16.0,ITA
+18.0,Paraguay,1236.37,12.0,PAR
+19.0,Czechia,1205.58,17.0,CZE
+20.0,Georgia,1204.42,15.0,GEO
+21.0,Afghanistan,1194.68,28.0,AFG
+22.0,Vietnam,1191.44,20.0,VIE
+23.0,Uzbekistan,1187.74,22.0,UZB
+24.0,Iraq,1186.9,37.0,IRQ
+25.0,Slovenia,1181.53,21.0,SVN
+26.0,Colombia,1179.06,27.0,COL
+27.0,Poland,1172.8,19.0,POL
+28.0,Uruguay,1171.13,30.0,URU
+29.0,Belarus,1166.89,25.0,BLR
+30.0,Hungary,1165.96,32.0,HUN
+31.0,Serbia,1165.24,26.0,SRB
+32.0,Netherlands,1164.89,29.0,NED
+33.0,Finland,1155.06,31.0,FIN
+34.0,Peru,1148.32,49.0,PER
+35.0,Panama,1138.15,33.0,PAN
+36.0,Belgium,1136.09,34.0,BEL
+37.0,Slovakia,1116.31,38.0,SVK
+38.0,Costa Rica,1111.91,35.0,CRC
+39.0,Romania,1103.74,36.0,ROU
+40.0,Egypt,1084.16,39.0,EGY
+41.0,Saudi Arabia,1083.52,45.0,KSA
+42.0,Latvia,1082.02,52.0,LVA
+43.0,Kuwait,1080.32,40.0,KUW
+44.0,Guatemala,1078.84,42.0,GUA
+45.0,Germany,1077.31,48.0,GER
+46.0,Bosnia and Herzegovina,1067.17,44.0,BIH
+47.0,Tahiti,1066.94,46.0,TAH
+48.0,New Zealand,1057.64,41.0,NZL
+49.0,Kyrgyz Republic,1056.57,43.0,KGZ
+50.0,Tajikistan,1056.09,47.0,TJK
+51.0,Andorra,1053.19,56.0,AND
+52.0,Chile,1049.02,63.0,CHI
+53.0,Libya,1048.27,50.0,LBY
+54.0,Angola,1048.16,59.0,ANG
+55.0,Azerbaijan,1030.01,53.0,AZE
+56.0,Australia,1028.85,51.0,AUS
+57.0,Solomon Islands,1027.36,55.0,SOL
+58.0,North Macedonia,1024.35,82.0,MKD
+59.0,Kosovo,1022.13,65.0,KOS
+60.0,Denmark,1009.77,61.0,DEN
+61.0,Montenegro,1008.86,78.0,MNE
+62.0,South Africa,1004.53,58.0,RSA
+63.0,El Salvador,1002.75,64.0,SLV
+64.0,Sweden,1001.1,73.0,SWE
+65.0,Equatorial Guinea,999.11,66.0,EQG
+66.0,Moldova,994.54,67.0,MDA
+67.0,New Caledonia,994.45,68.0,NCL
+68.0,Lithuania,993.01,77.0,LTU
+69.0,Turkmenistan,992.35,69.0,TKM
+70.0,Korea Republic,988.42,57.0,KOR
+71.0,Canada,986.41,71.0,CAN
+72.0,Lebanon,986.28,54.0,LBN
+73.0,Myanmar,986.19,60.0,MYA
+74.0,Curaçao,984.51,72.0,CUW
+75.0,Bahrain,977.65,74.0,BHR
+76.0,USA,974.17,75.0,USA
+77.0,Cameroon,973.03,,CMR
+78.0,Mozambique,970.84,85.0,MOZ
+79.0,Malaysia,970.77,70.0,MAS
+80.0,Fiji,969.26,79.0,FIJ
+81.0,Vanuatu,968.57,80.0,VAN
+82.0,Norway,963.45,97.0,NOR
+83.0,Mexico,959.74,83.0,MEX
+83.0,China PR,959.74,88.0,CHN
+85.0,Côte d'Ivoire,957.32,76.0,CIV
+86.0,Zambia,956.91,92.0,ZAM
+87.0,Albania,954.92,86.0,ALB
+88.0,Chinese Taipei,949.47,87.0,TPE
+89.0,Algeria,946.61,100.0,ALG
+90.0,Qatar,945.32,89.0,QAT
+91.0,Wales,944.83,90.0,WAL
+92.0,Oman,940.88,91.0,OMA
+93.0,Nicaragua,938.65,98.0,NCA
+94.0,Suriname,927.69,95.0,SUR
+95.0,Cuba,926.27,96.0,CUB
+96.0,Cyprus,919.85,93.0,CYP
+97.0,England,917.75,84.0,ENG
+98.0,Israel,915.49,99.0,ISR
+99.0,Maldives,914.49,109.0,MDV
+100.0,United Arab Emirates,906.64,101.0,UAE
+101.0,Timor-Leste,905.84,103.0,TLS
+102.0,Comoros,901.65,102.0,COM
+103.0,Ecuador,895.34,105.0,ECU
+104.0,Trinidad and Tobago,891.61,107.0,TRI
+105.0,American Samoa,886.78,110.0,ASA
+106.0,Mauritius,878.18,111.0,MRI
+107.0,Austria,877.56,104.0,AUT
+108.0,Bolivia,872.11,106.0,BOL
+109.0,Türkiye,872.07,112.0,TUR
+110.0,Nepal,866.35,114.0,NEP
+111.0,Malta,864.81,113.0,MLT
+112.0,Greece,864.34,94.0,GRE
+113.0,Estonia,862.55,127.0,EST
+114.0,Dominican Republic,859.28,115.0,DOM
+115.0,Mongolia,857.23,116.0,MNG
+116.0,Macau,851.27,118.0,MAC
+117.0,Northern Ireland,849.96,125.0,NIR
+118.0,"Hong Kong, China",847.7,121.0,HKG
+119.0,Bulgaria,844.06,108.0,BUL
+120.0,Switzerland,842.52,120.0,SUI
+121.0,Cambodia,840.67,123.0,CAM
+122.0,Palestine,838.37,124.0,PLE
+123.0,Brunei Darussalam,834.6,122.0,BRU
+124.0,Guinea,832.08,117.0,GUI
+125.0,Somalia,816.42,129.0,SOM
+126.0,Mauritania,805.7,126.0,MTN
+127.0,Gibraltar,802.65,119.0,GIB
+128.0,Samoa,796.36,130.0,SAM
+129.0,Haiti,794.65,131.0,HAI
+130.0,India,777.49,133.0,IND
+131.0,Scotland,768.98,128.0,SCO
+132.0,San Marino,765.8,132.0,SMR
+133.0,Cabo Verde,752.03,,CPV
+134.0,Tanzania,747.66,136.0,TAN
+135.0,Ghana,747.43,134.0,GHA
+136.0,Namibia,738.98,137.0,NAM
+137.0,Tonga,737.97,135.0,TGA
+138.0,Pakistan,717.92,138.0,PAK
+139.0,Bangladesh,702.59,139.0,BAN
+140.0,Sri Lanka,674.86,,SRI
+141.0,Bhutan,674.42,,BHU
+142.0,Senegal,673.7,,SEN
+143.0,Kenya,670.38,,KEN
+,Honduras,1007.95,62.0,HON
+,Burundi,1000.0,,BDI
+,Guyana,1020.0,,GUY
+,Central African Republic,1000.0,,CTA
+,St Kitts and Nevis,1000.0,,SKN
+,Faroe Islands,1000.0,,FRO
+,Sudan,1000.0,,SDN
+,Republic of Ireland,1000.0,,IRL
+,Madagascar,1000.0,,MAD
+,Turks and Caicos Islands,1000.0,,TCA
+,The Gambia,1000.0,,GAM
+,Eswatini,1000.0,,SWZ
+,Belize,1000.0,,BLZ
+,Nigeria,1000.0,,NGA
+,Seychelles,1000.0,,SEY
+,Togo,1000.0,,TOG
+,Yemen,1000.0,,YEM
+,Montserrat,1000.0,,MSR
+,Botswana,1000.0,,BOT
+,St Lucia,1000.0,,LCA
+,Liechtenstein,1000.0,,LIE
+,Philippines,943.99,,PHI
+,Jamaica,1000.0,,JAM
+,Laos,995.28,,LAO
+,Singapore,1000.0,,SGP
+,Guinea-Bissau,1000.0,,GNB
+,Antigua and Barbuda,1000.0,,ATG
+,Anguilla,1000.0,,AIA
+,Jordan,968.31,81.0,JOR
+,Barbados,1000.0,,BRB
+,Niger,1000.0,,NIG
+,St Vincent and the Grenadines,1000.0,,VIN
+,South Sudan,1000.0,,SSD
+,Djibouti,1000.0,,DJI
+,Ethiopia,1000.0,,ETH
+,Korea DPR,1000.0,,PRK
+,Liberia,1000.0,,LBR
+,Puerto Rico,1000.0,,PUR
+,Lesotho,1000.0,,LES
+,Papua New Guinea,1000.0,,PNG
+,Sierra Leone,1000.0,,SLE
+,Eritrea,1000.0,,ERI
+,Syria,1000.0,,SYR
+,Guam,1000.0,,GUM
+,São Tomé and Príncipe,1000.0,,STP
+,Bermuda,1000.0,,BER
+,Luxembourg,1000.0,,LUX
+,Chad,1000.0,,CHA
+,Dominica,1000.0,,DMA
+,Grenada,1000.0,,GRN
+,Cook Islands,1000.0,,COK
+,Iceland,1000.0,,ISL
+,Gabon,1000.0,,GAB
+,Cayman Islands,1000.0,,CAY
+,British Virgin Islands,1000.0,,VGB
+,Mali,1000.0,,MLI
+,Burkina Faso,1000.0,,BFA
+,US Virgin Islands,1000.0,,VIR
+,Aruba,1000.0,,ARU
+,Congo DR,1000.0,,COD
+,Benin,1000.0,,BEN
+,Malawi,1000.0,,MWI
+,Uganda,1000.0,,UGA
+,Tunisia,1021.22,,TUN
+,Rwanda,1000.0,,RWA
+,Zimbabwe,1000.0,,ZIM
+,Bahamas,1000.0,,BAH
+,Congo,1000.0,,CGO
